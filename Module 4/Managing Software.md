@@ -13,7 +13,7 @@ rpm -qf filename
 
 Lists files installed from a package
 ```sh
-rpm -ql filename
+rpm -ql packagename
 ```
 
 Shows scripts executed while installing the package 
@@ -26,7 +26,7 @@ Shows the change log for a package
 rpm -q -changelog
 ```
 
-Querying the package files is by adding `-p` to any above commands
+Querying "uninstalled" package files is by adding `-p` to any above commands
 
 ### Extracting RPM Packages
 
@@ -84,7 +84,7 @@ Search for the name and summary _add `all` to search for description also_
 dnf search 
 ```
 
-Search for the package file list
+Search for the package file list "deepest search"
 ```sh
 dnf provides
 ```
