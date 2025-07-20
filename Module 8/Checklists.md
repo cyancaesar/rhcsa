@@ -7,7 +7,7 @@
 - [x] [[Assignments#Managing Permissions|Managing Permissions]]
 - [x] [[Assignments#Scheduling Jobs|Scheduling Jobs]]
 - [x] [[Assignments#Managing Containers as Services|Managing Containers as Services]]
-- [ ] [[Assignments#Managing Automount|Managing Automount]]
+- [x] [[Assignments#Managing Automount|Managing Automount]]
 - [x] [[Assignments#Setting Time|Setting Time]]
 - [x] [[Assignments#Managing SELinux|Managing SELinux]]
 
